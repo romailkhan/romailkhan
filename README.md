@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romailkhan
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning cyber criminology
+- 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on any creative software project 
 - 📫 How to reach me: email :)
 
