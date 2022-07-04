@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romailkhan
-- 👀 I’m interested in software developing
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on any creative software project 
+- 💞️ I’m looking for internships in software engineering and/or project management
 - 📫 How to reach me: email :)
 
 <!---
