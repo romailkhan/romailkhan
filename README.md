@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romailkhan
-- 🌱 I’m currently learning data structures
-- 💞️ Software Engineer
+- 🌱 I’m currently learning Full-Stack Development
+- 💞️ Software Engineer @ Target
 - 📫 How to reach me: email :)
 
 <!---
