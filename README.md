@@ -1,9 +1,7 @@
 # Hello there! 👋
----
 My name is Romail Khan.
 
 ## About Me
----
 - 💞️ Machine Learning Engineer @ Target
 - 🧠 Masters Computer Science Student @ Georgia Tech
 - 🌱 Currently working on many private side projects utilizing ML/GenAI tools
