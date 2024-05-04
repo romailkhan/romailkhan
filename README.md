@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @romailkhan
-- 🌱 I’m currently learning Full-Stack Development
-- 💞️ Software Engineer @ Target
+# Hello there! 👋
+---
+My name is Romail Khan.
+
+## About Me
+---
+- 💞️ Machine Learning Engineer @ Target
+- 🧠 Masters Computer Science Student @ Georgia Tech
+- 🌱 Currently working on many private side projects utilizing ML/GenAI tools
+- 🎓 Florida State University Alumni
 - 📫 How to reach me: email :)
 
 <!---
