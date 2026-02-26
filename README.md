@@ -1,12 +1,12 @@
 # Hello there! 👋
-My name is Romail Khan.
+My name is Romail Khan aka Aroma
 
 ## About Me
-- 💞️ Machine Learning Engineer @ Target
+- 💞️ Machine Learning Engineer
 - 🧠 Masters Computer Science Student @ Georgia Tech
-- 🌱 Currently working on many private side projects utilizing ML/GenAI tools
+- 🌱 Currently working on many private side projects
 - 🎓 Florida State University Alumni
-- 📫 How to reach me: email :)
+- 📫 How to reach me: x.com/aromawoma
 
 <!---
 romailkhan/romailkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
