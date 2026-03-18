@@ -1,11 +1,9 @@
 # Hello there! 👋
-My name is Romail Khan aka Aroma
+My name is Romail
 
 ## About Me
-- 💞️ Machine Learning Engineer
+- 💞️ Product Engineer specializing in Full Stack, Data, AI and ML.
 - 🧠 Masters Computer Science Student @ Georgia Tech
-- 🌱 Currently working on many private side projects
-- 🎓 Florida State University Alumni
 - 📫 How to reach me: x.com/aromawoma
 
 <!---
