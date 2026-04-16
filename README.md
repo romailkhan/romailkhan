@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on developing cool personal tools<br>👯 I'm looking to collaborate on interesting ML / backend projects<br>🤝 I'm looking for help with design and frontend<br>🌱 I'm currently learning ML/AI — Masters @ Georgia Tech<br>💬 Ask me about anything — I always have the answers to most things<br>⚡ Fun fact — I used to be a competitive valorant player
+former val player now full time software engineer. masters @ gt.
 
 
 ## 🌐 Socials:
